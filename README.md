@@ -24,9 +24,15 @@ This management system allows university lecturers or admins to view and modify 
    - `marks.txt`
 3. If all files are read successfully, press **Enter** to continue.
 4. From the main menu, choose:
+<<<<<<< HEAD
    - **1** � Students Menu
    - **2** � Course Menu
    - **0** � Save all data and exit
+=======
+   - **1** – Students Menu
+   - **2** – Course Menu
+   - **0** – Save all data and exit
+>>>>>>> ce1cd0f86c44db71264d94c20159bc9e298801c0
 
 ---
 
@@ -46,7 +52,11 @@ This management system allows university lecturers or admins to view and modify 
 
 ### Courses
 - View course details
+<<<<<<< HEAD
 - Edit credit hours (2�5)
+=======
+- Edit credit hours (2–5)
+>>>>>>> ce1cd0f86c44db71264d94c20159bc9e298801c0
 - Add coursework components
 - Edit existing components
 
