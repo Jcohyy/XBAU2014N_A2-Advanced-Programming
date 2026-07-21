@@ -1,0 +1,9 @@
+CPR3113N;Principles of Programming;3
+CAL3023N;Data Structures & Algorithms;3
+CDB3213N;Data Management & Security;3
+CDB3113N;Database Systems;3
+CPR3023N;Object-Oriented Programming;3
+XBAU2014N;Advanced Programming;4
+XBAU3074N;System Security;4
+XBAU3124N;IT Project Management;4
+XBAU3014N;Database Systems;4

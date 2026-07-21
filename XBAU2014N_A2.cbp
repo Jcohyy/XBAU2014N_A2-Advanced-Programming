@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="XBAU2014N_A2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/XBAU2014N_A2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/XBAU2014N_A2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="README.txt" />
+		<Unit filename="data/components.txt" />
+		<Unit filename="data/course.txt" />
+		<Unit filename="data/marks.txt" />
+		<Unit filename="data/student.txt" />
+		<Unit filename="include/Component.h" />
+		<Unit filename="include/Course.h" />
+		<Unit filename="include/Lecturer.h" />
+		<Unit filename="include/Marks.h" />
+		<Unit filename="include/Person.h" />
+		<Unit filename="include/Student.h" />
+		<Unit filename="include/utils.h" />
+		<Unit filename="src/Component.cpp" />
+		<Unit filename="src/Course.cpp" />
+		<Unit filename="src/Marks.cpp" />
+		<Unit filename="src/Student.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/utils.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
