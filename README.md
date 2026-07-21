@@ -2,10 +2,10 @@
 
 **UOW XBAU2014N Advanced Programming A2**
 
-**Author:** Joie Khoo Huan Yun
-**Student ID:** 0209184
-**Date:** 21/7/2026
-**Github Repo:** https://github.com/Jcohyy/XBAU2014N_A2-Advanced-Programming
+**Author:** Joie Khoo Huan Yun  
+**Student ID:** 0209184  
+**Date:** 21/7/2026  
+**Github Repo:** https://github.com/Jcohyy/XBAU2014N_A2-Advanced-Programming  
 
 ---
 
@@ -24,15 +24,15 @@ This management system allows university lecturers or admins to view and modify 
    - `marks.txt`
 3. If all files are read successfully, press **Enter** to continue.
 4. From the main menu, choose:
-   - **1** – Students Menu
-   - **2** – Course Menu
-   - **0** – Save all data and exit
+   - **1** ï¿½ Students Menu
+   - **2** ï¿½ Course Menu
+   - **0** ï¿½ Save all data and exit
 
 ---
 
 ## UML Class Diagram
 
-> *(Insert your UML class diagram image here.)*
+![UML Class Diagram](images/class_diagram.png)
 
 ---
 
@@ -46,7 +46,7 @@ This management system allows university lecturers or admins to view and modify 
 
 ### Courses
 - View course details
-- Edit credit hours (2–5)
+- Edit credit hours (2ï¿½5)
 - Add coursework components
 - Edit existing components
 
