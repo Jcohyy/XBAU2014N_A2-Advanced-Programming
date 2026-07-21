@@ -13,7 +13,6 @@
 This management system allows university lecturers or admins to view and modify student details and their obtained marks, alongside managing course details and coursework components. The program demonstrates the four core principles of object-oriented programming (OOP): inheritance, encapsulation, polymorphism, and abstraction.
 
 ---
-
 ## How to Run
 
 1. Build and run the project using your preferred C++ IDE (e.g. Code::Blocks, Visual Studio) or execute the compiled `.exe`.
@@ -24,21 +23,15 @@ This management system allows university lecturers or admins to view and modify 
    - `marks.txt`
 3. If all files are read successfully, press **Enter** to continue.
 4. From the main menu, choose:
-<<<<<<< HEAD
-   - **1** � Students Menu
-   - **2** � Course Menu
-   - **0** � Save all data and exit
-=======
    - **1** – Students Menu
    - **2** – Course Menu
    - **0** – Save all data and exit
->>>>>>> ce1cd0f86c44db71264d94c20159bc9e298801c0
 
 ---
 
 ## UML Class Diagram
 
-![UML Class Diagram](images/class_diagram.png)
+![UML Class Diagram](class_diagram.png)
 
 ---
 
@@ -52,19 +45,10 @@ This management system allows university lecturers or admins to view and modify 
 
 ### Courses
 - View course details
-<<<<<<< HEAD
-- Edit credit hours (2�5)
-=======
 - Edit credit hours (2–5)
->>>>>>> ce1cd0f86c44db71264d94c20159bc9e298801c0
 - Add coursework components
 - Edit existing components
-
-### Validation
-- Validates all user input
-- Prevents invalid marks, weightages, and duplicate entries
-- Allows users to exit any input prompt safely
-
+- 
 ---
 
 ## Implementation
